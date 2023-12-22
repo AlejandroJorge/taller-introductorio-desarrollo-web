@@ -11,8 +11,9 @@ Ejemplos de codigo para el taller introductorio al desarrollo web
 
 # Estandarizacion de un formato para el contenido
 
-- To do...
+- **Envio de una imagen en raw bytes**: Ejemplo de envio de una imagen como bytes en el cuerpo de una respuesta HTTP en javascript
+- **Envio de una imagen como descripcion**: Ejemplo de envio de una imagen como descripcion (HTML) en el cuerpo de una respuesta HTTP en javascript
 
 # Herramienta integradora
 
-- To do...
+- **Servidor simple**: Ejemplo de un servidor con multiples rutas que muestra en consola un mensaje cuando recibe una conexion en javascript
